@@ -1,0 +1,3 @@
+python "C:\PythonWorkspace\owomodo\owomodo_scrapping\financial_library\prodable_a_la_casa\Cistercian\backtest_bench\launch_get_backtesting_scenarios.py"
+pause
+exit
